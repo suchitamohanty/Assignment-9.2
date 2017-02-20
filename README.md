@@ -1,0 +1,1 @@
+Assignment of a Registration form using Bootstrap form Elements andedit the data inside the form with using Bootstrap JavaScript Components such as Modal.
